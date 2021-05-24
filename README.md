@@ -1,7 +1,7 @@
 # Console-for-Raspberry-Pi-with-a-2.8-TFT-LCD-touch-screen-
 Bash console for Raspberry Pi with a 2.8" TFT LCD with on-screen keyboard &amp; terminal display - NO X-Windows
 
-<a href="https://github.com/Diy-Poor-Guy/Console-for-Raspberry-Pi-with-a-2.8-TFT-LCD-touch-screen-/tree/main/Images"><img src="IMG_2760.JPG" height="300"/></a>
+<a href="https://github.com/Diy-Poor-Guy/Console-for-Raspberry-Pi-with-a-2.8-TFT-LCD-touch-screen-/blob/main/"><img src="Images/IMG_2760.JPG" height="300"/></a>
 
 
 This is a console app for Raspberry Pi with a 2.8" TFT LCD touch 
